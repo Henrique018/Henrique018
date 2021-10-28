@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m building cool products with ReactJS and its ecossystem
 - 🌱 I’m currently learning about tests with Jest and Cypress
 - 👯 I’m looking to collaborate on frontend web development
-- 💬 Ask me about CSS and Javascript
 
 ### My current stack
 
